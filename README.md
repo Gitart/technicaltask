@@ -1,6 +1,6 @@
 # Tecnical task
 
-I have txt file with **9301903** records  
+I have txt file with **9 301 903** records  
 
 ![image](https://user-images.githubusercontent.com/3950155/196241635-b14871ed-7cd6-429d-8d75-9471c1553ef8.png)
 
