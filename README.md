@@ -1,5 +1,4 @@
 # Tecnical task
----
 
 I have txt file with **9301903** records  
 
