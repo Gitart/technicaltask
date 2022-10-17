@@ -7,7 +7,7 @@ I have txt file with **9301903** records
 
 ![image](https://user-images.githubusercontent.com/3950155/196239684-49d1816c-8f2f-40b5-a521-64d1b1135bd3.png)
 
-Filtered with conditional (two words)
+Filtered with conditional (two words)    
 ![image](https://user-images.githubusercontent.com/3950155/196241133-4335133d-2466-4ec6-ab95-4ecc1fc705b0.png)
 
 Result :  
