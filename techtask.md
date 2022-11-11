@@ -1,4 +1,4 @@
-# Golang Challenge IMDB
+# 💡 Golang Challenge IMDB
 
 ## In a nutshell
 Write a Golang program that reads a large file, in this case the IMDB database!
